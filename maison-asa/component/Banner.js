@@ -17,6 +17,11 @@ const onNextClick = () => {
   ref.current.next();
 };
 
+const openCheckout = (link)=>{
+       window.location= link
+   }
+
+
     return (
       
         <div className={styles.banner}>
@@ -83,7 +88,7 @@ const onNextClick = () => {
       <h3 className={styles.prodcut_price} >750 MAD</h3>
 
 
-      <button className={styles.ajouter_btn}>AJOUTER AU PANIER</button>
+      <button className={styles.ajouter_btn} onClick={()=>{openCheckout("https://boutique.maisondasa.com/fr/anti-age-hydratants/17-creme-visage-bio-delices-marocains-aux-pepites-d-argan.html")}}>ACHETEZ MAINTENANT</button>
 </div>
 
 

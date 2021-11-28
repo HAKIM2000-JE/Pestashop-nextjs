@@ -31,17 +31,14 @@ function Pub() {
                 <h1>DELICES MAROCAINS</h1>
                 <h5 className={styles.avis_subtitle}> AUX PEPITES D'ARGAN</h5>
 
-                <div className={styles.avis_image}>
-                <Image src="/avis.svg" height="30" width="60" />
-                    
-                </div>
+               
           </div>
           <div className={styles.center}>
            <br />
           <h2 className={styles.prodcut_title} >CRÈME ANTI-ÂGE & HYDRATATION</h2>
           </div>
           <div className={styles.right}>
-          <button className={styles.ajouter_btn} onClick={()=>{openCheckout("https://boutique.maisondasa.com/fr/commande")}}>ACHETEZ </button>
+          <button className={styles.ajouter_btn} onClick={()=>{openCheckout("https://boutique.maisondasa.com/fr/anti-age-hydratants/17-creme-visage-bio-delices-marocains-aux-pepites-d-argan.html")}}>ACHETEZ </button>
           </div>
             
         </div>

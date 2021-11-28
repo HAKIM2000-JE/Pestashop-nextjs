@@ -32,7 +32,7 @@
 .left h1{
 
     font-family:"Butler_Regular" ;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: lighter;
  
 
@@ -44,7 +44,8 @@
 
     font-family: "futura-light-bt";
     position: relative;
-    font-size: 10px;
+    font-size: 12px;
+    top: 5px;
 
     
    
@@ -62,6 +63,8 @@
      font-size: 15px;
      font-weight: lighter;
      text-align: center;
+     position: relative;
+     left: 10%;
     
     
      font-family: "futura-light-bt";
@@ -86,4 +89,14 @@
     font-family:"futura-light-bt";
     font-weight: bold;
     
+}
+
+
+@media screen and (max-width:450px) {
+
+.center{
+    display: none;
+}
+
+
 }

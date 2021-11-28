@@ -171,7 +171,7 @@ export default function Ingredient() {
 
             
 
-            <button className={styles.ajouter_btn} onClick={()=>{openCheckout("https://boutique.maisondasa.com/fr/commande")}} >ACHETEZ MAINTENANT</button>
+            <button className={styles.ajouter_btn} onClick={()=>{openCheckout("https://boutique.maisondasa.com/fr/anti-age-hydratants/17-creme-visage-bio-delices-marocains-aux-pepites-d-argan.html")}} >ACHETEZ MAINTENANT</button>
 
 
 
@@ -526,7 +526,7 @@ i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04
 
         <h1>PEAU SECHE EN MANQUE DE NUTRITION ?</h1>
         <p>Un coffret de 4 soins 100% naturels aux probiotiques, pour une peau durablement nourrie, pleine de confort et lumineuse. Adapté aux peaux sèches, réactives, sujettes aux rougeurs</p>
-        <button className={styles.ajouter_btn_banner} onClick={()=>{openCheckout("https://boutique.maisondasa.com/fr/commande")}}>ACHETEZ MAINTENANT</button>
+        <button className={styles.ajouter_btn_banner} onClick={()=>{openCheckout("https://boutique.maisondasa.com/fr/anti-age-hydratants/17-creme-visage-bio-delices-marocains-aux-pepites-d-argan.html")}}>ACHETEZ MAINTENANT</button>
      
     </div>
 
@@ -586,7 +586,7 @@ INSTAGRAM : @MAISOND’ASA</p>
 
         <div className={styles.Insta_mobile}>
 
-           <Image src="/insta_mobile.png" height={800} width={500} />
+           <Image src="/insta_mobile.png" height={1200} width={800} />
         
         </div>
 
