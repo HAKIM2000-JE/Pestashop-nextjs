@@ -20,7 +20,7 @@ export default function Home() {
   integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
   crossorigin="anonymous"
 />
-    <script src="https://unpkg.com/react/umd/react.production.min.js" crossorigin></script>
+    <script src="https://unpkg.com/react/umd/react.production.min.js" ></script>
 
 <script
   src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"
