@@ -100,5 +100,17 @@
     }
 
 
-
+    .footer{
+        background-color: #DB9D7B;
+        width: 100%;
+        transform: translate(-5%);
+        display: flex;
+        justify-content: space-between;
+        padding-left: 1px;
+        padding-top: 20px;
+        padding-right: 50px;
+        
+        
+    
+    }
 }

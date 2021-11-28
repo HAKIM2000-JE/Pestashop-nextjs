@@ -325,7 +325,7 @@ non collant</p>
 
 
 
-            <div className={styles.voyage}>
+           { /*<div className={styles.voyage}>
                 <h1>UN VOYAGE </h1>
 
                  
@@ -333,8 +333,8 @@ non collant</p>
                 <ReactPlayer url='https://www.youtube.com/watch?v=zPbHRlNIhvg' className={styles.video} width="100%" height="500px" />
 
               
-            </div>
-
+            </div>*/
+}
 
 
         {  /*  <div className={styles.comment_section}>

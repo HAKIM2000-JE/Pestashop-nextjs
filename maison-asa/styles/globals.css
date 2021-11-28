@@ -84,6 +84,8 @@ body{
   width: 600px;
   height: 65px;
   float: right;
+  position: absolute;
+  right: 2%;
 }
 
 .nav div.main_list ul{
@@ -92,7 +94,7 @@ body{
   height: 65px;
   display: flex;
   list-style: none;
-  transform: translate(25%);
+ 
 }
 
 .nav div.main_list ul li{

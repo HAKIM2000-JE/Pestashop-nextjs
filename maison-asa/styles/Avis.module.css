@@ -37,3 +37,32 @@
 .Body p{
     width: 70%;
 }
+
+
+@media screen and (max-width:450px) {
+
+    .title{
+        font-size: 13px;
+    }
+
+
+
+    .header h3{
+        font-size: 12px;
+    }
+
+
+    .Body p{
+        font-size: 11px;
+        margin-top: 10px;
+    }
+
+
+    .date{
+        font-size: 11px;
+        margin-top: 10px;
+    }
+
+
+    
+}
