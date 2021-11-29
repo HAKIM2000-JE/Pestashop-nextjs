@@ -286,7 +286,7 @@ export default function Ingredient() {
                     </div>
                     <div className={styles.utilisation_field}>
 
-                    <Image src="/maison-d'Asa-_utilisation-4.svg" width={50} height={50} />
+                    <Image src="/maison-d'Asa-_utilisation-4.svg" width={70} height={70} />
                     <p>LES POMMETTES  pour donner un fini glowy à son makeup</p>
                     </div>
              </div>
@@ -402,7 +402,9 @@ i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04
 
         <div className={styles.fq_container}>
               <h1>F&Q</h1>
+              <br />
               <h2>VOS QUESTIONS FRÉQUENTES SUR LES PRODUITS: </h2>
+              <br /><br /><br /> 
               <div className={styles.fq_row}   style={{backgroundColor:`${bg[0]}`}} onClick={ ()=>{seeValue(0)} } >
                  <h3 style={{color:`${color[0]}` , backgroundColor:`${bg[0]}`}}>QUELLE EST LA MEILLEURE FAÇON D'APPLIQUER LE PARFUM ?</h3>
                  
@@ -461,10 +463,10 @@ i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04
                   </div>
                 </div>
               
-    <Carousel ref={ref} style={{width:'80%' , display:'grid', placeItems:'center' }} variant="#DB9D7B">
+    <Carousel   ref={ref} style={{width:'80%' , display:'grid', placeItems:'center' }} variant="#DB9D7B" >
     
   
-  <Carousel.Item interval={5000}>
+  <Carousel.Item interval={5000} >
   <div className={styles.related_list}>
               {  
                  products.map((p)=>(

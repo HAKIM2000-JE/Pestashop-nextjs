@@ -37,7 +37,7 @@ const openCheckout = (link)=>{
                 </div>
 
                     
-    <Carousel ref={ref} controls={false}  style={{width:'100%' , display:'grid' ,  placeItems:'center' }} >
+    <Carousel ref={ref} controls={false}  indicators={false}  style={{width:'100%' , display:'grid' ,  placeItems:'center' }} >
 
 
     

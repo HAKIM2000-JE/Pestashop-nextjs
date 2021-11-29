@@ -28,6 +28,7 @@
     
 }
 
+.carousel-indicators li { visibility: hidden; }
 
 .product{
     display: grid;
@@ -563,8 +564,8 @@
 }
    
     .products{
-        display: block;
-        transform: translate(10%,0%);
+        
+        transform: translate(-10%,0%);
 
   
  
@@ -572,6 +573,18 @@
    
     
     
+    }
+
+
+    .fq_container{
+        transform: translate(-5%);
+        
+    }
+
+
+    .avis_container{
+        transform: translate(-5%);
+
     }
 
     .certif_row{
