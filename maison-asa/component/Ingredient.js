@@ -160,6 +160,10 @@ export default function Ingredient() {
                 </video>
 
 
+               
+
+
+
 
 
                 
@@ -467,7 +471,7 @@ i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04
                     <>
                     <Product image={p.product10.image_link}  link={p.product10.detail_link} title={p.product10.meta_title[1].value} price={ parseInt(p.product10.price) } /> 
                      <Product image={p.product27.image_link} link={p.product27.detail_link} title={p.product27.meta_title[1].value} price={ parseInt(p.product27.price) } /> 
-                     <Product image={p.product44.image_link} link={p.product44.detail_link} title={p.product44.meta_title[1].value} price={ parseInt(p.product44.price) }   />
+                     <Product image={p.product44.image_link} className={styles.prod3} link={p.product44.detail_link} title={p.product44.meta_title[1].value} price={ parseInt(p.product44.price) }   />
                     </>
                   
 
@@ -485,7 +489,7 @@ i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04
                     <>
                     <Product  image={p.product17.image_link} link={p.product17.detail_link}  title={p.product17.meta_title[1].value} price={ parseInt(p.product17.price) } /> 
                      <Product image={p.product4.image_link} link={p.product4.detail_link}  title={p.product4.meta_title[1].value} price={ parseInt(p.product4.price) } /> 
-                     <Product image={p.product23.image_link} link={p.product23.detail_link}  title={p.product23.meta_title[1].value} price={ parseInt(p.product23.price) } />
+                     <Product image={p.product23.image_link} className={styles.prod3} link={p.product23.detail_link}  title={p.product23.meta_title[1].value} price={ parseInt(p.product23.price) } />
                     </>
                   
 
@@ -504,7 +508,7 @@ i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04
                     <>
                     <Product image={p.product29.image_link} link={p.product29.detail_link}  title={p.product29.meta_title[1].value} price={ parseInt(p.product29.price) }   /> 
                      <Product image={p.product22.image_link} link={p.product22.detail_link}  title={p.product22.meta_title[1].value} price={ parseInt(p.product22.price) } /> 
-                     <Product image={p.product16.image_link} link={p.product16.detail_link}  title={p.product16.meta_title[1].value} price={ parseInt(p.product16.price) }  />
+                     <Product image={p.product16.image_link} className={styles.prod3} link={p.product16.detail_link}  title={p.product16.meta_title[1].value} price={ parseInt(p.product16.price) }  />
                     </>
                   
 
@@ -578,13 +582,13 @@ INSTAGRAM : @MAISOND’ASA</p>
 
 
 
-        <div className={styles.Insta}>
+        <div className={styles.Insta} onClick={()=>{openCheckout("https://www.instagram.com/maisondasa/?hl=en")}}>
 
            <Image src="/instagram.png" height="800" width={1550} />
         
         </div>
 
-        <div className={styles.Insta_mobile}>
+        <div className={styles.Insta_mobile} onClick={()=>{openCheckout("https://www.instagram.com/maisondasa/?hl=en")}}>
 
            <Image src="/insta_mobile.png" height={1200} width={800} />
         

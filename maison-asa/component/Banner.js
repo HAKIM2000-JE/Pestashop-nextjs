@@ -63,6 +63,19 @@ const openCheckout = (link)=>{
   
   
     </Carousel.Item>
+
+
+    <Carousel.Item interval={5000}>
+
+<div className={styles.banner_image3}>
+   
+</div>
+
+
+
+
+ 
+</Carousel.Item>
   </Carousel>
 
 

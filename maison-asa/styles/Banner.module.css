@@ -28,10 +28,21 @@
 .banner_image1{
     width: 100%;
     height: 95vh;
-    background-image: url("../public/image4.png");
+    background-image: url("../public/délices-visage-creme_1.png");
     background-size: cover;
     background-repeat: no-repeat;
    
+
+}
+
+
+.banner_image3{
+
+    width: 100%;
+    height: 95vh;
+    background-image: url("../public/délices-visage-creme_2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 
@@ -249,4 +260,28 @@
     }
   
   }
+
+
+  @media screen and (max-width:450px) {
+
+    .avis{
+        position: relative;
+        left: -7px;
+    }
+
+
+  }
   
+
+  @media screen and (max-width:380px) {
+
+
+    .avis{
+        position: relative;
+        left: 10px;
+    }
+
+
+
+
+  }
