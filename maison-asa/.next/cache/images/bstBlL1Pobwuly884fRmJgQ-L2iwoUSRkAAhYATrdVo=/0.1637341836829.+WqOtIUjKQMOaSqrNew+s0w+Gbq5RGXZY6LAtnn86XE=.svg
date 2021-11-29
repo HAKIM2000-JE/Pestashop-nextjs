@@ -1,93 +1,0 @@
-<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2871 1397" width="2871" height="1397">
-	<title>ingredients</title>
-	<defs>
-		<image  width="51" height="51" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAMAAAANf8AYAAAAAXNSR0IB2cksfwAAAX1QTFRF////a0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAu+k0tgAAAH90Uk5TAF4er1Hkhf8au08D8ogzxXP5C7hJDPeUU+UCrT8UonkZDeuPjPglPPzEBOcf24kBqQ4Q4YHtx1y0++Y3Bzt7waAgKFrGd0QSodTxvYc+drPwm2E4g7JjHS7OZg/J9Gd8/uNtI5H2MAbPbDbNR9N++jS5ayRv3zGjaDIFygqSKf4pM88AAAGKSURBVHicldVlV0JBEAbgQdBBsVBRKQEBRRFRbDFBUbADxcRu7K7fLpeQXO7O+3XnOXtm5+5eAFYkzBVmiqR0IyummxKUk00pllGJohwrqKYSsYpqqhGVNURTi4h1NKKqj5oGmmmMElRrSEYrGNRRiF4ZM00UY4gRVBr5iak5btDMbywJgtYWXtJqSxpsa+cjRXZMhW9GHQ5MT6dTnOjsmJmubhHhMtswOz0FL5K8ty9HCOmXMY7CNTA4lFcIGba4s/saGR0bZ4N47BOSyUS5xuM1T1lF6pNRa6d9MwDeWX9u2+wE5uZju6kWFpeWOeodK6ue9CulWFv3F6q3Bjc2851cyMzabWt7hzkgkyGQR+z6Cg0VwBjMFnv7ol+cM3yQQQ5DYkLIUQY55iEAJylyesZH4Pzi31xyEoCrZEvXhFdRmjA3/ATccRIhEIAIsRshtwK505PMvWAeSAQUwsPwSDOxk3simmfEFyKBV8Q3qlEE8J1qoj/uD7IJWz/JRvdFJvD9Qzfwy1z5A2SCNn5ovRRxAAAAAElFTkSuQmCC"/>
-		<image  width="993" height="678" id="img2" href="data:image/png;base64,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"/>
-		<image  width="37" height="42" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAqCAMAAAADFmLkAAAAAXNSR0IB2cksfwAAASlQTFRF////a0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAa0oAm/lmmQAAAGN0Uk5TADysJgZezf+VF3/o/a8xoPnwjiAEUsLabA0RdN/+uksCJ/T1mSoBR7fjdxMLadfFVh+K7qQ1++qCGtBhCEAS2fy4A1+abYx8fYtuYKZTsgq9D8gyFNIpGdshKBU7vkazp3tX7UvuTAAAAQlJREFUeJzt09dSwlAUheGg0R8bJAL2KBoMxt5jB7HXCIpiL+//EEZlRq/29sJL192Z+WbOmTXrGIaaWEOjRsymZojLpqW1Ddo7YpJJJC2wO1MCSWe6gO6eXsH09Q+AMziUFcxwfATc3KhAvPyYA/74hGAmp6aj58zMpgUzN78A1uKSQKKSlyFYWRXIZ8msrW8Ipl7ypnTVH5VsbBXUkj+SKbJdUkyUHYddT2d7sK8r4wAOf8GO4FhXXg7nRGelU4pnOjPPsfI6Cy9wxb/ylXIF+1JnV1WCa53d1PBvdZbyqUlLrecuoHqvs4RNpayzB5fHUGdPFs+mzqJVvvyv8jvRKl91ZYRvPw7vQWkg2cullQcAAAAASUVORK5CYII="/>
-		<image  width="276" height="32" id="img4" href="data:image/png;base64,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"/>
-		<image  width="192" height="103" id="img5" href="data:image/png;base64,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"/>
-		<image  width="27" height="27" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbBAMAAAB/+ulmAAAAAXNSR0IB2cksfwAAABhQTFRF////a0oAa0oAa0oAa0oAa0oAa0oAa0oATFAZwwAAAAh0Uk5TACM14/D/vxujtwNgAAAAJ0lEQVR4nGNgQAJCyBwGRhMFZK5wsACypKnhqCT5kgypKJIMZSiSAJNTC3kFD1wcAAAAAElFTkSuQmCC"/>
-	</defs>
-	<style>
-		tspan { white-space:pre }
-		.txt0 { font-size: 23px;fill: #6b4a00;font-family: "Gotham HT F" } 
-		.txt1 { font-size: 40px;fill: #6b4a00;font-weight: 300;font-family: "Futura BT" } 
-		.txt2 { font-size: 21px;fill: #6b4a00;font-weight: 500;font-family: "Hatton" } 
-		.txt3 { font-size: 20px;fill: #6b4a00;font-family: "Gotham HT F" } 
-		.txt4 { font-size: 16px;fill: #6b4a00;font-weight: 500;font-family: "Hatton" } 
-		.txt5 { font-size: 18px;fill: #6b4a00;font-family: "Gotham HT F" } 
-		.txt6 { font-size: 18px;fill: #6b4a00;font-weight: 500;font-family: "Hatton" } 
-		.txt7 { font-size: 20px;fill: #6b4a00;font-weight: 500;font-family: "Hatton" } 
-		.txt8 { font-size: 22px;fill: #6b4a00;font-family: "Gotham HT F" } 
-	</style>
-	<g id="ingredients">
-		<use id="&lt;Tracé&gt;" href="#img1" x="1922" y="742" />
-		<text id="De composition BIO, La crème respecte la nature de la peau et puise dans la richesse de ses actifs" style="transform: matrix(2.083,0.005,-0.005,2.083,1420.709,206.472)" >
-			<tspan x="-345.998" y="0" class="txt0">De composition BIO, La crème respecte la nature de la peau 
-</tspan>
-			<tspan x="-316.539" y="27.213" class="txt0">et puise dans la richesse de ses actifs précieux tels que
-</tspan>
-		</text>
-		<text id="ingredients" style="transform: matrix(2.083,0.005,-0.005,2.083,1420.884,62.175)" >
-			<tspan x="-135.744" y="0" class="txt1">INGREDIENTS
-</tspan>
-		</text>
-		<text id="L’Huile d’Argan richela reine de la cosmétique naturelle, permet une meilleure élasticité mais au" style="transform: matrix(2.083,0,0,2.083,968.333,995.44)" >
-			<tspan x="-258.104" y="0" class="txt2">L’HUILE D’ARGAN RICHE
-</tspan>
-			<tspan x="-447.298" y="24.394" class="txt3">la reine de la cosmétique naturelle, permet 
-</tspan>
-			<tspan x="-358.432" y="48.787" class="txt3">une meilleure élasticité mais aussi 
-</tspan>
-			<tspan x="-253.377" y="73.181" class="txt3">une meilleure souplesse.
-</tspan>
-		</text>
-		<text id="L’Huile de Calendulabooste la régénération des cellules de la peau et accélère le processus de ci" style="transform: matrix(2.083,0,0,2.083,946.379,1300.54)" >
-			<tspan x="-193.815" y="0" class="txt4">L’HUILE DE CALENDULA
-</tspan>
-			<tspan x="-421.851" y="21.597" class="txt5">booste la régénération des cellules de la peau 
-</tspan>
-			<tspan x="-361.436" y="43.193" class="txt5">et accélère le processus de cicatrisation
-</tspan>
-		</text>
-		<text id="Le Squalane végétalPrécieux pour une bonne hydratation de la peau, facilite l’application du soin" style="transform: matrix(2.083,0,0,2.083,897.5,689.735)" >
-			<tspan x="-215.952" y="0" class="txt6">LE SQUALANE VÉGÉTAL
-</tspan>
-			<tspan x="-378.879" y="24.394" class="txt3">Précieux pour une bonne hydratation
-</tspan>
-			<tspan x="-412.22" y="48.787" class="txt3"> de la peau, facilite l’application du soin,
-</tspan>
-			<tspan x="-467.04" y="73.181" class="txt3"> améliore l'absorption des crèmes par la peau
-</tspan>
-		</text>
-		<text id="L’Acide Hyaluroniquepermet de maintenir le niveau d'hydratation des tissus cutanés, rendant ainsi" style="transform: matrix(2.083,0,0,2.083,1813.046,1179.813)" >
-			<tspan x="0" y="0" class="txt6">L’ACIDE HYALURONIQUE
-</tspan>
-			<tspan x="0" y="24.239" class="txt3">permet de maintenir le niveau d'hydratation 
-</tspan>
-			<tspan x="0" y="48.478" class="txt3">des tissus cutanés, rendant ainsi la peau lisse, 
-</tspan>
-			<tspan x="0" y="72.718" class="txt3">ferme et rebondie
-</tspan>
-		</text>
-		<use id="star + star + star + star" href="#img2" x="855" y="571" />
-		<text id="L’Eau de Roseriche en antioxydants, elle contribuera à repousser le vieillissement de la peau to" style="transform: matrix(2.083,0,0,2.083,1981.795,897.879)" >
-			<tspan x="0" y="0" class="txt7">L’EAU DE ROSE
-</tspan>
-			<tspan x="0" y="26.244" class="txt8">riche en antioxydants, elle contribuera 
-</tspan>
-			<tspan x="0" y="52.488" class="txt8">à repousser le vieillissement de la peau 
-</tspan>
-			<tspan x="0" y="78.732" class="txt8">tout en dissimulant les rides et les ridules.
-</tspan>
-		</text>
-		<g id="fleche">
-			<use id="&lt;Groupe&gt;" href="#img3" x="1685" y="882" />
-			<use id="&lt;Groupe&gt;" href="#img4" x="1687" y="872" />
-		</g>
-		<g id="fleche">
-			<use id="&lt;Groupe&gt;" href="#img5" x="915" y="685" />
-			<use id="&lt;Groupe&gt;" href="#img6" x="1079" y="784" />
-		</g>
-	</g>
-</svg>
