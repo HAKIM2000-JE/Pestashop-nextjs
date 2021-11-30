@@ -1200,7 +1200,7 @@
  .texture_small2{
         display: block;
         position: relative;
-        left: -120px;
+        left: -140px;
 
        
     }
@@ -1396,11 +1396,13 @@
     margin: 0 auto;
     position: relative;
     left: -80px;
+    
 }
  
 
 .avis_container h1{
     font-size: 18px;
+    
 }
 
 
@@ -1447,5 +1449,7 @@
         transform: translate(-10%,-30%);
     }
 
-
+   .avis_container{
+     transform: translate(10%);
+   }
 }
