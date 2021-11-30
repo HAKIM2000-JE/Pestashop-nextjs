@@ -206,6 +206,21 @@
       
     }
     
+
+
+    
+    .banner_image1{
+        width: 100%;
+        height: 95vh;
+        background-image: url("../public/ELEMENTS-v2-mobile-06.png"); 
+        background-size: cover;
+        background-repeat: no-repeat;
+       
+        
+    
+    
+      
+    }
     
     .banner_image2{
         width: 100%;
