@@ -28,6 +28,10 @@
     
 }
 
+.space{
+    display: none;
+}
+
 .carousel-indicators li { visibility: hidden; }
 
 .product{
@@ -397,6 +401,10 @@
     
     flex: 1;
 
+}
+
+.texture_small2{
+    display: none;
 }
 
 
@@ -946,10 +954,14 @@
 
 @media screen and (max-width:580px) {
 
+    .space{
+        display: block;
+    }
+
 
     .certif_row{
         position: relative;
-        left: 60px;
+        left: 30px;
     }
   
 
@@ -1104,6 +1116,7 @@
     max-width: 300px;
     position: relative;
     left: 40px;
+    top: -50px;
 }
 
 
@@ -1121,7 +1134,7 @@
 
 .fq_container {
     position: relative;
-    top: -90px;
+   top: 110px;
 }
 
 .fq_container h1{
@@ -1141,6 +1154,7 @@
   margin: 0 auto;
   position: relative;
   left: -60px;
+  top: 50px;
 }
 
 
@@ -1183,12 +1197,39 @@
 }
 
 
+ .texture_small2{
+        display: block;
+        position: relative;
+        left: -120px;
+
+       
+    }
+
+
+
+    .texture_text{
+        display: none;
+    }
+
+    .texture_title1 {
+        display: none;
+    }
+
+
+    .texture_title2{
+        display: none;
+    }
+
+
 }
 
 
 @media screen and (max-width:400px) {
 
 
+    
+
+   
       .utilisations_row{
           /* display: block;
           position: relative;
@@ -1255,6 +1296,7 @@
     .texture_meduim{
         display: none;
     }
+    
     
 
     .texture_title1{

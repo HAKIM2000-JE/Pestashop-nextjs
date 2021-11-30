@@ -98,6 +98,11 @@ export default function Ingredient() {
         <div className={styles.products}>
 
 
+        <div className={styles.space}>
+         <br /><br /><br /><br /><br />
+        </div>
+
+
          <div className={styles.utilisations_row}>
          <div className={styles.product}>
 
@@ -264,7 +269,9 @@ export default function Ingredient() {
 
                  
         <div className={styles.utilisations_list}>
-
+        <div className={styles.space}>
+         <br /><br /><br /><br /><br /><br /><br /><br />
+        </div>
             <div className={styles.utilisations_row}>
             <div className={styles.utilisation_field}>
 
@@ -319,14 +326,12 @@ export default function Ingredient() {
 
 
                <div className={styles.texture_small2}>
-                  <Image src="/texture.png" width={500} height={300} />
+                  <Image src="/texture.png" width={300} height={600} />
                </div>
 
 
                
-               <div className={styles.texture_meduim}>
-                  <Image src="/image3.png" width={360} height={200} />
-               </div>
+            
 
                <div className={styles.texture_big}>
                   <Image src="/image3.png" width={900} height={500} />
@@ -418,7 +423,7 @@ i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04
 
         <div className={styles.fq_container}>
               <h1>F&Q</h1>
-              <br />
+           
               <h2>VOS QUESTIONS FRÉQUENTES SUR LES PRODUITS: </h2>
               <br /><br /><br /> 
               <div className={styles.fq_row}   style={{backgroundColor:`${bg[0]}`}} onClick={ ()=>{seeValue(0)} } >
@@ -555,7 +560,9 @@ i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04
 
 
     <div className={styles.products} style={{backgroundColor:"transparent" }}>
-
+    <div className={styles.space}>
+         <br /><br /><br /><br /><br /> <br />
+        </div>
          <div className={styles.utilisations_row}>
          <div className={styles.product}>
 
