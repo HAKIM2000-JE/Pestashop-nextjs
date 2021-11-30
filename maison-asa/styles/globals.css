@@ -28,6 +28,28 @@ body{
 
 
 
+.prize{
+  width: 100%;
+  background: url("../public/image5.png");
+  display: grid;
+  place-items: center;
+
+  padding: 100px;
+  background-size: cover;
+
+}
+
+.banner{
+  width: 100%;
+  background: url("../public/image4.png");
+  display: grid;
+  place-items: center;
+  color: white;
+  padding: 100px;
+  background-size: cover;
+}
+
+
 
 
 
