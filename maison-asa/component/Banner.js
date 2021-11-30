@@ -107,8 +107,8 @@ const openCheckout = (link)=>{
 
 <div className={styles.info}>
           <p> <Image src="/puce.png" height="20" width="20"  />Livraison express à domicile </p>
-          <p> <Image src="/puce.png" height="20" width="20"  />2 échantillons offerts à chaque commande !  Profitez-en</p>
-          <p> <Image src="/puce.png" height="20" width="20"  />Avec ce produit, vous gagnez 16 points de fidélité </p>
+          <p style={{position:'relative' , top:'-10px'}}> <Image src="/puce.png" height="20" width="20"  />2 échantillons offerts à chaque commande !  Profitez-en</p>
+          <p style={{position:'relative' , top:'-20px'}}> <Image src="/puce.png" height="20" width="20"   />Avec ce produit, vous gagnez 16 points de fidélité </p>
           
 </div>
   

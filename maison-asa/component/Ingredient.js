@@ -223,11 +223,20 @@ export default function Ingredient() {
 
             <div className={styles.Images}>
 
-                     <div className="">
-                     <Image src="/image1 (2).png" width="830" height="700"  />
+                     <div className={styles.image_left_1} >
+                     <Image src="/image1 (2).png" width="990" height="700"  />
 
                         
                      </div>
+
+
+
+                     <div  className={styles.image_left_2} >
+                     <Image src="/ELEMENTS-v2-mobile-01.png" width="990" height="700"  />
+
+                        
+                     </div>
+
 
 
                      <div className="">
@@ -279,14 +288,14 @@ export default function Ingredient() {
              <div className={styles.utilisation_field}>
 
         
-                    <Image src="/maison-d'Asa-_utilisation-3.svg" width={80} height={80} />
+                    <Image src="/maison-d'Asa-_utilisation-3.svg" width={90} height={90} />
                     <p>SUR LES LÈVRES ABÎMÉES
                     pour les réparer</p>
 
                     </div>
                     <div className={styles.utilisation_field}>
 
-                    <Image src="/maison-d'Asa-_utilisation-4.svg" width={70} height={70} />
+                    <Image src="/maison-d'Asa-_utilisation-4.svg" width={100} height={100} />
                     <p>LES POMMETTES  pour donner un fini glowy à son makeup</p>
                     </div>
              </div>
@@ -307,6 +316,13 @@ export default function Ingredient() {
                <div className={styles.texture_small}>
                   <Image src="/image3.png" width={500} height={300} />
                </div>
+
+
+               <div className={styles.texture_small2}>
+                  <Image src="/texture.png" width={500} height={300} />
+               </div>
+
+
                
                <div className={styles.texture_meduim}>
                   <Image src="/image3.png" width={360} height={200} />

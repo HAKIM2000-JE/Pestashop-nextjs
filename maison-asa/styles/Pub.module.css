@@ -24,6 +24,9 @@
     background-color: white;
     height: 85px;
     padding: 20px;
+    box-shadow: 1px -8px 5px 0px rgba(148,148,148,0.43);
+    -webkit-box-shadow: 1px -8px 5px 0px rgba(148,148,148,0.43);
+    -moz-box-shadow: 1px -8px 5px 0px rgba(148,148,148,0.43);
 
 
 

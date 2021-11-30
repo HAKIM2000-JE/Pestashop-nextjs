@@ -20,6 +20,38 @@
 }
 
 
+.footer_conatiner{
+    width: 100%;
+    background-color: #DB9D7B;
+
+
+}
+
+.newLetter {
+    
+
+
+    font-size: 15px;
+
+    font-family: "futura-light-bt";
+    color: white;
+   
+    padding-left: 70px;
+    padding-top: 20px;
+
+
+}
+
+
+.newInupt{
+    width: 40%;
+    height: 50px;
+    background-color: #eac6ae;
+    border: none;
+     margin-left: 70px;
+  
+}
+
 
 .footer{
     background-color: #DB9D7B;

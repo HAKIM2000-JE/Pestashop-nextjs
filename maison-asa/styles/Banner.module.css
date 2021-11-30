@@ -90,7 +90,7 @@
     place-items: center;
     background: rgba(250, 250, 250, 0.2);
     padding: 10px;
-    height: 55vh;
+    height: 60vh;
 }
 
 
@@ -175,6 +175,7 @@
     font-size: 13px;
     position: relative;
     top: 20px;
+    
 
 
 }
@@ -184,12 +185,42 @@
 
      .avis{
          width: 100%;
-         transform: translate(0%,37%);
+         transform: translate(5%,20%);
+        
      }
 
      .info{
          display: none;
      }
+
+     .banner_image{
+        width: 100%;
+        height: 95vh;
+        background-image: url("../public/ELEMENTS-v2-mobile-05.png"); 
+        background-size: cover;
+        background-repeat: no-repeat;
+       
+        
+    
+    
+      
+    }
+    
+    
+    .banner_image2{
+        width: 100%;
+        height: 95vh;
+        background-image: url("../public/ELEMENTS-v2-mobile-07.png"); 
+        background-size: cover;
+        background-repeat: no-repeat;
+       
+        
+    
+    
+      
+    }
+    
+    
 
 }
 
