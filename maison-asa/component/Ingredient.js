@@ -352,67 +352,39 @@ non collant</p>
 
            { /*<div className={styles.voyage}>
                 <h1>UN VOYAGE </h1>
-
                  
-
                 <ReactPlayer url='https://www.youtube.com/watch?v=zPbHRlNIhvg' className={styles.video} width="100%" height="500px" />
-
               
             </div>*/
 }
 
 
         {  /*  <div className={styles.comment_section}>
-
               <div className={styles.comment_section_header}> 
                   <div  className={styles.comment_section_header_left}>
                        <h1 >COMMENTAIRES  <br /> DES  CLIENTS</h1>
-
                        <Image src="/60 Avis.svg" height="200" width="1100" />
-
-
                        <p >This product is rated 4.4 out of 5 stars. 
 We have collected more than 491 reviews</p>
                   </div>
-
                   <div  className={styles.comment_section_header_right}>
                        
-
                        <Image src="/users_rating.svg" height="300" width="1100" />
-
-
                       
                   </div>
               </div>
-
               <div className={styles.comment_section_body}>
-
               
                     <Comment image="/comment_image1.png" text="this cream make my  
 skin look very healthy, 
 i love it!" title="NIHON" rating="/stars5.svg"  impression="IN LOVE" date="12/04/2021"/>
                   
 <Comment  image="/comment_image2.png"  text="very hydrating my skin looks perfect with no makeup" title="SANA" rating="/stars4.svg"  impression="HYDRATING" date="11/02/2021"/>
-
-
-
 <div className={styles.other_comment}>
 <Comment  image="/comment_image3.png" text="I like this cream " title="JULIE" rating="/stars3.svg"  impression="NICE BRAND" date="23/02/2021" />
-
-
-
-
-
 <Comment  image="/comment_image1.png" text="natural cream with good results" title="LAURA" rating="/stars5.svg"  impression="GOOD" date="08/07/2021"/>
 </div>
-
-
-
-
-
               </div>
-
-
               <div className={styles.pagination}>
                  <Image src="/pagination.svg" height="50" width="150" />
               </div>
